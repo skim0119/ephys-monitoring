@@ -1,0 +1,5 @@
+flask
+miv-os
+requests
+numpy
+matplotlib
